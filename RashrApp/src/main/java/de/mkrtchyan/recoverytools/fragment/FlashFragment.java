@@ -866,4 +866,3 @@ public class FlashFragment extends Fragment {
         return history;
     }
 }
-

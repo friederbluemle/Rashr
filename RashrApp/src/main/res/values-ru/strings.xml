@@ -137,9 +137,9 @@
     <string name="keep_current_name">Сохранить текущее имя (%s)</string>
     <string name="rename_failed">Переименование неудалось</string>
     <string name="flash">Прошить</string>
-    <string name="recovery_description">С помощью этой функции, вы можете прошить раздел рекавери на свое устройство 
+    <string name="recovery_description">С помощью этой функции, вы можете прошить раздел рекавери на свое устройство
         в одно нажатие!</string>
-    <string name="kernel_description">С помощью этой функции, вы можете прошить ядро 
+    <string name="kernel_description">С помощью этой функции, вы можете прошить ядро
 	в одно нажатие!</string>
     <string name="options">Опции</string>
     <string name="clear_cache_description">Удалить все загруженные образы рекавери или ядер</string>

@@ -45,7 +45,7 @@
     <string name="error">Errore</string>
     <string name="not_supportded">Il tuo dispositivo non è supportato dallo sviluppatore. Analizzare il sistema e segnalare il
         dispositivo non supportato o provare a cercare la partizione (riavvia una volta in recovery)?</string>
-    <string name="no_root">Il dispositivo non è rootato. Per favroe segui il root. Ulteriori info su 
+    <string name="no_root">Il dispositivo non è rootato. Per favroe segui il root. Ulteriori info su
         \n\nxda-developers.com</string>
     <string name="Downloading">Download…</string>
     <string name="comment">Commenti</string>
@@ -137,9 +137,9 @@
     <string name="keep_current_name">Mantieni nome attuale (%s)</string>
     <string name="rename_failed">Rinomina fallita</string>
     <string name="flash">Flash</string>
-    <string name="recovery_description">Con questa funzione puoi flashare la partizione recovery con un solo 
+    <string name="recovery_description">Con questa funzione puoi flashare la partizione recovery con un solo
         clic!</string>
-    <string name="kernel_description">Con questa funzione puoi flashare la partizione kernel/boot con un solo 
+    <string name="kernel_description">Con questa funzione puoi flashare la partizione kernel/boot con un solo
         clic!</string>
     <string name="options">Opzioni</string>
     <string name="clear_cache_description">Elimina tutte le immagini recovery/kernel scaricate</string>

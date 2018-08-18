@@ -85,7 +85,7 @@ public abstract class Command {
         /*
          * Try to detect broken toolbox/busybox binaries (see
          * https://code.google.com/p/busybox-android/issues/detail?id=1)
-         * 
+         *
          * It is giving "Value too large for defined data type" on certain file operations (e.g. ls
          * and chown) in certain directories (e.g. /data/data)
          */

@@ -29,10 +29,10 @@ public class Utils {
     /*
      * The emulator and ADP1 device both have a su binary in /system/xbin/su, but it doesn't allow
      * apps to use it (su app_29 $ su su: uid 10029 not allowed to su).
-     * 
+     *
      * Cyanogen used to have su in /system/bin/su, in newer versions it's a symlink to
      * /system/xbin/su.
-     * 
+     *
      * The Archos tablet has it in /data/bin/su, since they don't have write access to /system yet.
      */
     static final String[] BinaryPlaces = {"/data/bin/", "/system/bin/", "/system/xbin/", "/sbin/",

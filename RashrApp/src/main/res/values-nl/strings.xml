@@ -7,10 +7,10 @@
     <string name="report">rapporteer bug</string>
     <string name="sExit">Uitgang</string>
     <string name="xda">Open XDA-Thread</string>
-    <string name="rename">Als je je backup wilt vernoemen, typ het dan in het tekst veld (zonder spatie!). 
+    <string name="rename">Als je je backup wilt vernoemen, typ het dan in het tekst veld (zonder spatie!).
                     Zo niet, dan word huidige tijd ingesteld.
     </string>
-    <string name="bak_warning">Voordat je een aantal acties uitvoerd  met Recovery-Tools, raden we ten strengste aan om een back-up op uw PC op te slaan. 
+    <string name="bak_warning">Voordat je een aantal acties uitvoerd  met Recovery-Tools, raden we ten strengste aan om een back-up op uw PC op te slaan.
         \nReservekopie wordt gemaakt onder %s.
         \nDe ontwikkelaar is niet verantwoordelijk voor enige schade die is gemaakt.
     </string>

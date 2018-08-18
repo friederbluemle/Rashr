@@ -25,7 +25,7 @@
     <string name="set_name">Назва бекапа</string>
   <string name="bak_warning">\"Перш ніж виконувати які-небудь дії з Rashr, будь ласка, створіть резервну копію і збережіть її на свій комп\'ютер.
 Резервні копії будуть створюватися:
-%s. 
+%s.
 Розробник не несе відповідальності за пошкодження Вашого пристрою.\"</string>
     <string name="flash_options">Параметри прошивки</string>
     <string name="risk">Я знаю, що ризикую</string>
@@ -43,7 +43,7 @@
     <string name="backupalready">Бекап вже існує.</string>
     <string name="error">Помилка</string>
     <string name="not_supportded">Ваш пристрій не підтримується. Сканування системи і звітів не підтримується пристроєм. Спробувати знайти розділ (перезавантажитися в recovery)?</string>
-  <string name="no_root">\"Пристрій не рутовано. Будь ласка, отримайте Root. Більш детальна інформація на 
+  <string name="no_root">\"Пристрій не рутовано. Будь ласка, отримайте Root. Більш детальна інформація на
 
 xda-developers.com\"</string>
     <string name="Downloading">Завантаження…</string>

@@ -41,14 +41,14 @@
     <string name="warning">Upozornenie!</string>
     <string name="fota">
         Napálenie Recovery Systému na tomto zariadení zmení FOTAKernel (partícia výmeny)
-         toto bude fungovať iba ak váš kernel to podporuje (väčšina Custom Kernelov a ROM to podporujú).	
+         toto bude fungovať iba ak váš kernel to podporuje (väčšina Custom Kernelov a ROM to podporujú).
     </string>
     <string name="flash_over_recovery">Napáliť Recovery teraz? (je potrebné reštartovanie do Recovery)</string>
     <string name="bak_done">Záloha dokončená</string>
     <string name="backupalready">Záloha už existuje.</string>
     <string name="error">Chyba</string>
     <string name="not_supportded">
-        Vaše zariadenie ešte nie je podporované. Preskenovať Systém a nahlásiť 
+        Vaše zariadenie ešte nie je podporované. Preskenovať Systém a nahlásiť
 		nepodporované zariadenie, alebo pokúsiť sa nájsť partíciu (reštartovať do Recovery)?
     </string>
     <string name="no_root">
