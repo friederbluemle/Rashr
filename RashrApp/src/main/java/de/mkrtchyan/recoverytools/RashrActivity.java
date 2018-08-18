@@ -528,7 +528,7 @@ public class RashrActivity extends AppCompatActivity
      */
     private boolean extractFiles() {
         try {
-            Common.pushFileFromRAW(mContext, App.RecoveryCollectionFile, R.raw.recovery_links,
+            Common.pushFileFromRAW(mContext, App.RecoveryCollectionFile, R.raw.recovery_sums,
                     App.isVersionChanged);
             Common.pushFileFromRAW(mContext, App.KernelCollectionFile, R.raw.kernel_sums,
                     App.isVersionChanged);
